@@ -14,7 +14,7 @@ The game is played as follows:-
 
 6. Once you guess the name of the state correctly, the name appears on the state
 
-<img src = "https://github.com/Souhardya-Ganguly/India-state-guessing-game/blob/main/snapshots/Input%20terminal.PNG"></img>
+<img src = "https://github.com/Souhardya-Ganguly/India-state-guessing-game/blob/main/snapshots/Partial_map.PNG"></img>
 
 8. If you cannot guess all the states correctly, the states that you could not guess is stored in a seperate .csv file
 
